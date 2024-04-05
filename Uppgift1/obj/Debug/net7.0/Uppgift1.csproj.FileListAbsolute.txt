@@ -1,0 +1,28 @@
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.exe
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.deps.json
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.runtimeconfig.json
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.dll
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.pdb
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.AssemblyInfoInputs.cache
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.AssemblyInfo.cs
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.csproj.CoreCompileInputs.cache
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.dll
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\refint\Uppgift1.dll
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.pdb
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.genruntimeconfig.cache
+C:\Users\torsten\Desktop\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\ref\Uppgift1.dll
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.exe
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.deps.json
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.runtimeconfig.json
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.dll
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\bin\Debug\net7.0\Uppgift1.pdb
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.AssemblyInfoInputs.cache
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.AssemblyInfo.cs
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.csproj.CoreCompileInputs.cache
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.dll
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\refint\Uppgift1.dll
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.pdb
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\Uppgift1.genruntimeconfig.cache
+C:\Users\torsten\Desktop\Projects\Programmeringsteknik C# 2023\Uppgifter\Uppgift1\Uppgift1\obj\Debug\net7.0\ref\Uppgift1.dll
